@@ -24,6 +24,7 @@ body{
     margin-top:40px;
 }
 .images-h .h{
+    border-radius: 8px;
     width:48%
 }
 .images-h .v{
